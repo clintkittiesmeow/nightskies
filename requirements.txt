@@ -1,0 +1,4 @@
+setuptools~=60.2.0
+plotly~=5.10.0
+dash~=2.6.1
+pandas~=1.4.4
